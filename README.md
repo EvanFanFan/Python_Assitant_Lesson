@@ -1,0 +1,2 @@
+# Python_Assitant_Lesson
+学习如何用Python实现按键精灵的功能
