@@ -12,9 +12,11 @@
 
 
 
-![image-20211209230400193](C:\Users\freel\AppData\Roaming\Typora\typora-user-images\image-20211209230400193.png)
+
 
 如果 List of devices 有设备显示 那么安卓设备已经连接成功
+![1639062235(1)](https://user-images.githubusercontent.com/43714537/145422123-745967b9-dd23-4b03-ba54-b2d11d84a71c.png)
+
 
 如果没有就再研究一下
 
