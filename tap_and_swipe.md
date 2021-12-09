@@ -33,3 +33,13 @@ adb shell input swipe 0 20 300 500 1000 #意思从屏幕(0,20)滑动到(300,500)
 1. 5个参数，x1=0,y1=20，x2=300,y2=500.  1000是滑动的时长，总延时
 2. 参数的意思是模拟在从坐标(x1,y1)滑动到(x2,y2)总时长1000毫秒。
 
+## 三、python如何执行adb命令
+
+python可以用os.system(cmd_str)来执行系统命令
+```python
+import os
+os.system("adb shell input swipe 0 20 300 500 1000")
+```
+执行后即可实现从屏幕坐标(x1,y1)滑动到(x2,y2)
+
+
