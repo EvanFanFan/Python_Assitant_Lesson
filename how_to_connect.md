@@ -12,14 +12,12 @@
 
 将下载后的文件解压放在D盘，本示例中的路径是D:\adbtools
 
-![image-20211209231410498](C:\Users\freel\AppData\Roaming\Typora\typora-user-images\image-20211209231410498.png)
-
+![8c65b2a1e228b497d6f64234b97a987](https://user-images.githubusercontent.com/43714537/145423695-9f7652e4-b2bf-4da5-803f-8ab2a73fcdb8.png)
 
 
 右键我的电脑属性-->高级系统设置-->环境变量-->Path 增加项D:\adbtools
 
-![image-20211209231705052](C:\Users\freel\AppData\Roaming\Typora\typora-user-images\image-20211209231705052.png)
-
+![601eb9ab75531f0733ff663fd02be01](https://user-images.githubusercontent.com/43714537/145423598-51b0a078-4947-4f6d-b80a-f5d3d243c6ff.png)
 
 
 
@@ -28,7 +26,7 @@
 
 `adb devices`
 
-如果 List of devices 有设备显示 那么安卓设备已经连接成功
+如果 List of devices 有设备显示 那么安卓设备已经连接成功  
 ![1639062235(1)](https://user-images.githubusercontent.com/43714537/145422123-745967b9-dd23-4b03-ba54-b2d11d84a71c.png)
 
 
