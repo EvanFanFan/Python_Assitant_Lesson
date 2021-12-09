@@ -9,7 +9,7 @@
 
 #### 第二课、[如何连接安卓设备](how_to_connect.md)
 
-#### 第三课、实现用python 模拟 点击 和 滑动
+#### 第三课、[实现用Python模拟点击以及滑动](tap_and_swipe.md)
 
 #### 第四课、实现用python模拟键盘输入
 
